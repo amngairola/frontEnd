@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Raleway:wght@100&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+.img{
+	align-items: center;
+	display: flex;
+}
+.container{
+	justify-content: center;
+	display: flex;
+     max-height: 40%; 
+     flex-wrap: wrap;
+}
+.leftbox {background:#E49393;}
+.middlebox{ background:#408E91;}
+ .rightbox{background:#245953;}
+           
+  .property{
+      width:15%;
+     min-height:35%;
+    padding: 4vh;
+
+}
+    h1{
+     text-align:left;
+     padding-top: 2vh;
+     color:white;
+}
+   .h1-1,.details{
+        margin: 3vh;
+              color:white;
+              font-family: Inconsolata;
+            }
+.btn-1{
+
+            cursor: pointer;
+            border: 1px solid white;
+            background-color: white;
+            height: 5vh;
+            width: 40%;
+            color: #111111;
+            font-size: 0.7em;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+            border-radius: 6vh;
+            margin-top: 3vh;
+ 
+}
+.btn-1:hover { background-color: transparent;
+color: white ;}
