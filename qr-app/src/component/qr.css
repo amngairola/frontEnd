@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0;
+}
+body {
+  background: #eef1ff;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+
+.card {
+  width: 20%;
+  height: 60%;
+  background-color: white;
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2%;
+}
+.img {
+  border-radius: 8%;
+  width: 92%;
+  height: 25%;
+  padding: 4%;
+}
+.title {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  padding: 1% 2%;
+  font-family: Roboto;
+}
+.details {
+  text-align: center;
+  padding: 2%;
+  font-family: Roboto;
+}
+.attribution {
+  text-align: center;
+  margin-top: 5vh;
+}
