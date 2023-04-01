@@ -8,4 +8,4 @@ Series of React Front-End Daily mini task
 "https://github.com/amngairola/frontEnd/tree/master-1"
 
 ##project 3 >>> Working with card
-"https://github.com/amngairola/Daily-front-end-2"
+"https://github.com/amngairola/DailychallengeSecond/tree/master/roadmap-app"
