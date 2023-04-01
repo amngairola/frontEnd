@@ -1,7 +1,9 @@
 # frontEnd
 Series of React Front-End Daily mini task 
 
-#To run a React project that has been pulled from Git on your local host, you will need to follow these steps:
+#############################################
+
+To run a React project that has been pulled from Git on your local host, you will need to follow these steps:
 
 Ensure that you have Node.js and npm installed on your machine. You can download them from the official website https://nodejs.org/en/.
 
@@ -16,7 +18,8 @@ If the project has environment variables, create a .env file in the root folder 
 If the project uses an API, make sure to provide the API endpoint in the .env file.
 
 You can now make changes to the code, and the browser will automatically reload to reflect the changes.
-##$###########################
+
+##$########################################
 
 ##project 1  >>>  3-column-preview-card-component
 "https://github.com/amngairola/frontEnd/tree/master"
